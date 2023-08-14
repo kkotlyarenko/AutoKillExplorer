@@ -23,6 +23,7 @@ You may see a Windows message on first launch stating that AutoKillExplorer is n
 
 AutoKillExplorer is written in C++ programming language using Qt framework and WinApi libraries
 
+If you have any bugs or suggestions please use this: https://forms.gle/3uJDncafTZi76xsD8
 
 Rus
 Это приложение создано для решение проблемы, связанной с вылетом некоторых игр из-за процесса explorer.exe, например Forza Horizon 5 и Atomic Heart.
